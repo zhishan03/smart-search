@@ -33,6 +33,7 @@ six==1.12.0
 soupsieve==1.9.2
 spacy==2.1.4
 srsly==0.0.7
+gunicorn==19.7.1
 textacy==0.7.0
 thinc==7.0.4
 toolz==0.9.0
