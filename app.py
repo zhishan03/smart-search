@@ -63,7 +63,6 @@ def student():
 @app.route('/result', methods=['POST', 'GET'])
 def result():
     if request.method == 'POST':
-        yield render_template('render.html')
         value = request.form.get('Name')
         print("Recieved: " + value)
         article = nlp(url_to_string(value))
