@@ -8,7 +8,7 @@ Click==7.0
 cymem==2.0.2
 cytoolz==0.9.0.1
 decorator==4.4.0
-en-core-web-sm==2.1.0
+-e https://github.com/explosion/spacy-models/releases/download/en_vectors_web_lg-2.1.0/en_vectors_web_lg-2.1.0.tar.gz#egg=en_core_web_sm
 Flask==1.0.3
 idna==2.8
 itsdangerous==1.1.0
