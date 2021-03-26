@@ -236,8 +236,8 @@ a:hover {
 
 /*text input*/
 
-/* legend */
-#legend {
+/*legend*/
+#label {
     width: 550px;
     margin: 0 auto;
     border-radius: 8px;
@@ -247,11 +247,12 @@ a:hover {
     padding: 20px;
 }
 
-#legend tr {
+#label tr {
     margin-bottom: 3px;
     text-align: justify;
 }
 
-#legend td,th {
+#label td,th {
     padding:0 15px;
 }
+/*legend*/
